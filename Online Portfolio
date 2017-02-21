@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <title>Document</title>
+  <link rel="stylesheet" href="styles.css">
+ </head>
+ <body>
+ 	<header>
+ 		<h1>Hello everyone, this is my portfolio!</h1>
+ 	</header>
+ 	<div class="wrapper">
+ 		<div class="container">
+		 	<p>Hi. My name is Vincent, this is my portfolio. I"m a designer came from Shanghai,China. I love photography and I love arts. I want to use design to record the present, to record what I see and how I feel, and share them with everyone else. To me, art is more like an attitude, an attitude towards lives. It makes my life more confident and more healthy, and allows me to have a positive attitude when facing this world. My works are mainly influenced by Japanese designers, especially by Kenya Hara who is famous with a clean and neat layout. For me, a good design work is more like an Aspirin. It let me feel comfortable and cheerful.</p> 
+		 	<h2>All about me</h2>	
+		 	<ul>
+		 		<li>Vincent</li>
+		 		<li><em>Contact:</em>
+		 			<ul>
+		 				<li>021 084 57755</li>
+		 				<li>vyyc94@gmail.com</li>
+		 				<li><a href="https://www.behance.net/vincent94">My Behance</a></li>
+		 				<li><a href="https://www.instagram.com/vincent_tequila/">My Instagram</a></li>
+		 			</ul>
+		 		</li>
+		 		<li><em>Hobby:</em>
+		 			<ol>
+		 				<li>Design</li>
+		 				<li>Photography</li>
+		 				<li>Cooking</li>
+		 				<li>Travel</li>
+		 			</ol>
+		 		</li>
+		 		<br><Li><strong>That's all about me.</strong></Li>
+		 	</ul>
+
+	 	</div>
+    </div> 
+    <footer>
+    	<small>Copyright By Vincent Yu</small>
+    </footer>
+</body>
+</html>

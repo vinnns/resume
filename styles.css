@@ -1,0 +1,58 @@
+body {
+	margin:4;
+	background:white;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h1 {
+	font-size:30px;
+	color: #FFB6C1;
+	font-family: Georgia, serif;
+}
+
+h2 {
+	font-size:20px;
+	color: #FFB6C1;<small>
+}
+
+a {
+	color :black;
+	text-decoration: none;
+}
+
+a:hover {
+	color:gray;
+}
+
+/* Layout
+-------------------------------------------- */
+
+
+ header {
+ 	text-align: center;
+ 	width:88%; 
+	max-width: 1080px;
+	margin:0 auto;
+	border:1px none;
+ }
+
+ .container {
+ 	width:88%; 
+	max-width: 1080px;
+	margin:0 auto;
+	border:1px none;
+ }
+
+footer {
+	text-align: center;
+	width:88%; 
+	max-width: 1080px;
+	margin:0 auto;
+	border:1px none;
+}
+
+.wrapper {
+	margin:1em 0em;
+	padding:1em 0em;
+	border:1px none;
+}
